@@ -18,27 +18,11 @@ tags:
 
 
 
-天 津 财 经 大 学
-
-工 商 管 理 硕 士 论 文
-
-**科技型中小企业创业若干问题研究**
-
-**——N公司创业案例**
-
-**Research on some problems of high-tech SMEs**
-
-**——On the basis of the case of N company**
-
-专 业: *工商管理硕士(MBA)*
-
-年 级: *2008级*
-
-作 者: *于小焱*
-
-指导教师: *张 维 教授*
-
-二○一○年四月
+>**科技型中小企业创业若干问题研究——N公司创业案例**
+Research on some problems of high-tech SMEs——On the basis of the case of N company
+作 者: *小焱*
+指 导: *张 维 教授*
+2010年4月
 
 
 内 容 摘 要 
@@ -64,100 +48,51 @@ tags:
 Abstract 
 =========
 
-This thesis is a case study dissertation, with three parts: exordium, case and
-case studies.
+This thesis is a case study dissertation, with three parts: exordium, case and case studies.
+In this part discusses the purpose of case preparation，the scope, object and the purpose of this study. The research framework and the innovation of the paper made a brief description in this part of the thesis. In the part exordium, made describes on the background of a "high-tech SMEs" ,using realistic methods. It made a more detailed description on the company preparation, registration and the three stages of development. Founded in 2007, the company gradually get into
+the regularization by the effort of Mr. Zhang and his partner Mr.Yu,after three years of development. During this period there are full of opportunities and challenges.
 
-In this part discusses the purpose of case preparation，the scope, object and
-the purpose of this study. The research framework and the innovation of the
-paper made a brief description in this part of the thesis. In the part exordium,
-made describes on the background of a "high-tech SMEs" ,using realistic methods.
-It made a more detailed description on the company preparation, registration and
-the three stages of development. Founded in 2007, the company gradually get into
-the regularization by the effort of Mr. Zhang and his partner Mr.Yu,after three
-years of development. During this period there are full of opportunities and
-challenges.
+In the body of the case, it discribed the common problems encountered in theentrepreneurial process, such as, venture financing, partner selection, company registration, strategic decision-making, recruitment and management and team building.
 
-In the body of the case, it discribed the common problems encountered in the
-entrepreneurial process, such as, venture financing, partner selection, company
-registration, strategic decision-making, recruitment and management and team
-building.
-
-In the case analysis, reviewed the theories in the field of entrepreneurship
-research. by the theme "high-tech SMEs how to be successful" .Made studies on
-the practical problems of the entrepreneurial process of the high-tech SMEs,
-such as, business environment, operations strategies, financing channels and
+In the case analysis, reviewed the theories in the field of entrepreneurship research. by the theme "high-tech SMEs how to be successful" .Made studies on the practical problems of the entrepreneurial process of the high-tech SMEs,such as, business environment, operations strategies, financing channels and
 processes, organizational structure and human resources, entrepreneur.  
-In the last of the thesis, the conclusions will benefit the entrepreneurs of the
-high-tech SMEs, as following: firstly, choosing a good business environment is
-very important; secondly, every entrepreneur should make individual analysis on
-the environment and development stages of the company. According to actual
-situation, for personalized service options, strategic planning; thirdly, own
-funds should be used as the initial venture capital. Private financing might be
-a better choice if you need further financing; fourthly, more "target incentive"
-approach will be need to motivate knowledge workers. You should treat the
-part-time employees according to their characteristics. As a leader should
-analyze the different stages of development staff to understand the stage of,
-and use the method appropriate to their stage of development to lead.
-Entrepreneurs have the resources when the endowment, which is an important
-condition of success. Entrepreneurs need the ability of opportunities sensing,
-resources integrating and managing to be success.
+In the last of the thesis, the conclusions will benefit the entrepreneurs of the high-tech SMEs, as following: firstly, choosing a good business environment is very important; secondly, every entrepreneur should make individual analysis on the environment and development stages of the company. According to actual situation, for personalized service options, strategic planning; thirdly, own
+funds should be used as the initial venture capital. Private financing might be a better choice if you need further financing; fourthly, more "target incentive" approach will be need to motivate knowledge workers. You should treat the part-time employees according to their characteristics. As a leader should analyze the different stages of development staff to understand the stage of,and use the method appropriate to their stage of development to lead.
 
-As related to business secrets and personal privacy, so mentioned names in this
-thesis are all alias names.
+Entrepreneurs have the resources when the endowment, which is an importantcondition of success. Entrepreneurs need the ability of opportunities sensing,resources integrating and managing to be success.
+
+As related to business secrets and personal privacy, so mentioned names in this thesis are all alias names.
 
 Key words: High-tech SMEs, entrepreneurship, environmental protection
 
 目 录
 
 [绪 论 1](#_Toc260144009)
-
 [第1章 案 例 3](#第1章-案-例)
-
 [1.1案例背景 3](#案例背景)
-
 [1.2案例正文 4](#案例正文)
-
 [1.2.1创业前的准备 4](#创业前的准备)
-
 [1.2.2公司经营第一阶段 9](#公司经营第一阶段)
-
 [1.2.3公司经营第二阶段 11](#公司经营第二阶段)
-
 [1.2.4公司经营第三阶段 13](#公司经营第三阶段)
-
 [第2章 案例分析 15](#第2章-案例分析)
-
 [2.1科技型中小企业创业研究相关理论回顾 15](#科技型中小企业创业研究相关理论回顾)
-
 [2.1.1科技型中小企业的的概念界定 15](#科技型中小企业的的概念界定)
-
 [2.1.2创业研究相关理论回顾 16](#创业研究相关理论回顾)
-
 [2.1.3我国科技型中小企业成长问题研究 20](#我国科技型中小企业成长问题研究)
-
 [2.2公司创业若干问题研究 20](#公司创业若干问题研究)
-
 [2.2.1创业环境选择 21](#创业环境选择)
-
 [2.2.2经营战略选择 23](#经营战略选择)
-
 [2.2.3融资渠道和过程 32](#融资渠道和过程)
-
 [2.2.4人力资源管理 37](#人力资源管理)
-
 [2.2.5创业者研究 46](#创业者研究)
-
 [第3章 结论与展望 49](#第3章-结论与展望)
-
 [3.1本文的主要结论 49](#本文的主要结论)
-
 [3.2本文的不足 50](#本文的不足)
-
 [参考文献 51](#参考文献)
-
 [后 记 53](#后-记)
 
-绪 论
+# 绪 论
 
 Gartner(1985)、张玉利(2003)和陈震红（2004）从各自的角度以描述性的语言为创业进行了诠释。
 
