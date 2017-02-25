@@ -120,10 +120,9 @@ N公司，于2006年9月在S市（北方某大城市）科技园注册，注册�
 
 ![图1.1 N公司组织结构图](http://upload-images.jianshu.io/upload_images/3785456-82273e7b5de71890.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+> 图1.1 N公司创始组织架构图
+
 --
-
-![图2add from MarkdownPad2 in my windows](http://upload-images.jianshu.io/upload_images/3785456-82273e7b5de71890.?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 >表1.1    N公司2006年—2009年经营情况表（万元）
 
 |年份|资产总额|所有者权益|主营业务收入|实现利润|
