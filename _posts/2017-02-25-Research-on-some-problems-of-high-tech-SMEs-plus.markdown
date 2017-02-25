@@ -2,11 +2,13 @@
 layout:     post
 title:      "科技型中小企业创业若干问题研究——N公司创业案例"
 subtitle:   "Research on some problems of high-tech SMEs——On the basis of the case of N company"
-date:       2010-06-01 9:00:00
+date:       2017-02-25 9:00:00
 author:     "Xiaoyan"
 header-img: "img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
 catalog:    true
+duoshuo_username: _xiaoyanwork_
+duoshuo_username: xiaoyanwork
 tags:
     - 科技型中小企业
     - 创业
