@@ -4,7 +4,7 @@ title:      "X手术后的护理"
 subtitle:   "Shan-Qi-Hu Li"
 date:       2017-02-25 17:24:18
 author:     "Xiaoyan"
-header-img: "img/post-bg-re-vs-ng2.jpg"
+header-img: "img/post-bg-rwd.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
