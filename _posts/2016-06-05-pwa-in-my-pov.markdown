@@ -6,6 +6,7 @@ iframe:     "//huangxuan.me/pwa-in-my-pov/"
 navcolor:   "invert"
 date:       2016-06-05
 author:     "Hux"
+duoshuo_username: _xiaoyanwork_
 tags:
     - 前端开发
     - JavaScript
