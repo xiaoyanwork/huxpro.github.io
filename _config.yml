@@ -4,7 +4,7 @@ SEOTitle: 小焱的作品 | XiaoYan's Work
 header-img: img/home-bg.jpg
 email: dropbox@139.com
 description: "关于写作、编程、人工智能、投资、认知科学、海洋、儿童教育、超滤膜 | 小焱，Writing, Programming, AI, Investment, Cognitive Science, Ocean, UF Membrane | 这里是 @小焱 的作品博客，子曾经曰过：君子不器。"
-keyword: "小焱, XiaoYan小焱, Xiaoyan, xiaoyanwork, xiaoyan, 小焱的作品, @xiaoyan,小焱的作品 ,小焱的博客, Xiaoyan Work, XiaoYan's Work, 博客, 写作, 编程, 人工智能, 投资, 认知科学, 海洋, 超滤膜"
+keyword: "小焱, 于小焱, XiaoYan小焱, Xiaoyan, xiaoyanwork, xiaoyan, 小焱的作品, 小焱·作品， @xiaoyanwork, 小焱的作品, 小焱的博客, Xiaoyan Work, XiaoYan's Work, 博客, 写作, 编程, 人工智能, 投资, 认知科学, 海洋, 超滤膜"
 url: "http://xiaoyan.work"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "生活要有趣，<br>用作品向此生致敬！"
+sidebar-about-description: " <br>用作品向此生致敬！ <br> "
 sidebar-avatar: /img/avatar-xiaoyan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
