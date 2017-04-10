@@ -4,8 +4,8 @@
 
 | 时间 | 所在学校 | 专业 | 毕业论文题目 | 指导教师 |
 |:----------:|:-------------:|:-------:|:-------:|:-------:|
-|2001.9—2005.6| 中国海洋大学| 生物科学| 《海参vasa基因的克隆》|张志峰教授|
-|2008.9—2010.6| 天津财经大学| 工商管理| 《科技型中小企业创业若干问题研究》|张维教授|
+|2001.9—2005.6| 中国海洋大学| 生物科学| 《海参vasa基因的克隆》|[张志峰](http://baike.baidu.com/link?url=I6ikBwL6-kYNBPkxPrtJcdL1Tz2l6MosxMtVsQR16xmux66LkrfNTqjJIcfjnQxMayfLnR929kUEquuWRHK5p9kqNIYgAD6SYRDq6KbZQ9G7dEnQ9GMHHtLWFpwzAOI2)教授|
+|2008.9—2010.6| 天津财经大学| 工商管理| 《科技型中小企业创业若干问题研究》|[张维](http://baike.baidu.com/item/张维/6647047?fr=aladdin)教授|
 
 ## 工作经历
 | 时间（年、月） | 单位 | 部门 | 工作内容 | 职务 | 职称 |
