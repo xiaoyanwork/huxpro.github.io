@@ -41,6 +41,7 @@
 
 6. 作为的单位第一个官方微信公众号的发起人，负责设计了ncosmmb超滤膜检测平台微信公众号，可以办理在线预约委托和状态实时查询。 
 
+7. [第三届青年创新论坛二等奖](http://www.soa.gov.cn/xw/dfdwdt/jsdw_157/201605/t20160512_51638.html)
 ## 代表性论文 
 - 图片
 ![于小焱代表性论文](http://upload-images.jianshu.io/upload_images/3785456-428cb69b927054e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
